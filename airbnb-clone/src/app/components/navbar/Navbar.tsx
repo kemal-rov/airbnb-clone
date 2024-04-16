@@ -18,7 +18,7 @@ const Navbar = () => {
                     <div 
                         className="
                             flex
-                            dlex-row
+                            flex-row
                             items-center
                             justify-between
                             gap-3

@@ -10,7 +10,7 @@ const Search = () => {
                 w-full
                 md:w-auto
                 py-2
-                rounded-ful
+                rounded-full
                 shadow-sm
                 hover:shadow-md
                 transition
